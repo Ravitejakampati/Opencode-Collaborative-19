@@ -114,16 +114,16 @@
             "referral" : ""
         }
 	    
-	     {
-            "name"     : "raviteja kampati",
-            "imageurl" : "assets/img/participants/ravi.jpg",
-            "about"    : "novice developer",
-            "college"  : "iiit allahabad",
-            "facebook" : "",
-            "github"   : "https://github.com/Ravitejakampati",
-            "twitter"  : "",
-            "referral" : ""
-        }
+	{
+		"name": "raviteja kampati",
+		"imageurl": "",
+		"about": "novice developer",
+		"college": "iiita",
+		"facebook": "",
+		"github": "",
+		"twitter": "",
+		"referral": ""
+}
 
     ]
 }
