@@ -30,17 +30,7 @@
 			"twitter"  : "https://twitter.com/DugtalLekhika",
             "referral" : ""
         },
-
-	 {
-            "name"     : "raviteja kampati",
-			"imageurl" : "assets/img/participants/ravi.jpg",
-			"about"    : "novice web developer",
-			"college"  : "IIIT Allahabad",
-			"facebook" : "",
-			"github"   : "https://github.com/Ravitejakampati",
-			"twitter"  : "",
-            "referral" : ""
-        }    
+  
 	    
 =======
       {
@@ -116,7 +106,7 @@
 	    
 	{
 		"name": "raviteja kampati",
-		"imageurl": "",
+		"imageurl": "https://www.facebook.com/photo.php?fbid=1009176022624652&set=a.146178292257767&type=3&theater",
 		"about": "novice developer",
 		"college": "iiita",
 		"facebook": "",
